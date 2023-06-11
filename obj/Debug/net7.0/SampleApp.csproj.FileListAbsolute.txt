@@ -1,0 +1,5 @@
+C:\Users\Kai\Seafile\Projekte\ci_cd_demo\SampleApp\obj\Debug\net7.0\SampleApp.csproj.AssemblyReference.cache
+C:\Users\Kai\Seafile\Projekte\ci_cd_demo\SampleApp\obj\Debug\net7.0\SampleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kai\Seafile\Projekte\ci_cd_demo\SampleApp\obj\Debug\net7.0\SampleApp.AssemblyInfoInputs.cache
+C:\Users\Kai\Seafile\Projekte\ci_cd_demo\SampleApp\obj\Debug\net7.0\SampleApp.AssemblyInfo.cs
+C:\Users\Kai\Seafile\Projekte\ci_cd_demo\SampleApp\obj\Debug\net7.0\SampleApp.csproj.CoreCompileInputs.cache

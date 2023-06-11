@@ -30,7 +30,6 @@ jobs:
         dotnet clean --configuration Release
         dotnet build --configuration Release
         dotnet test
-      uses: actions/setup-dotnet@v2
       with:
         dotnet-version: '7.0.x'
         include-prerelease: true

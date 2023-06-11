@@ -1,2 +1,3 @@
 obj/
-SampleApp.Test/obj/
+SampleApp.Tests/obj/
+SampleApp.Tests/bin/

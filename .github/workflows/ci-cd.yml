@@ -44,3 +44,9 @@ jobs:
     - name: Deploy to production
       run: |
         echo "Deployment steps go here"
+        
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v2
+      with:
+        name: MyArtifacts
+        path: ./publish

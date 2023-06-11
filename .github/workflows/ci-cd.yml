@@ -24,6 +24,7 @@ jobs:
       
     - name: Build and test
       run: |
+        dotnet clean --configuration Release
         dotnet build --configuration Release
         dotnet test
 
